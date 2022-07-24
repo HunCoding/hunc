@@ -1,3 +1,4 @@
+// Package hunc é o pacote de testes no canal huncoding
 package hunc
 
 import "fmt"
