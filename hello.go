@@ -7,7 +7,3 @@ import "fmt"
 func PrintHello() {
 	fmt.Println("Hello from huncoding module - hunc")
 }
-
-func TestandoPseudoVersao() {
-	fmt.Println("Hello from new function")
-}
